@@ -1,0 +1,21 @@
+AI 1 Samples
+- 通道
+- 范围
+
+AI N Samples
+- 通道
+- 范围
+- 采样率
+- 采样点数
+
+AI Continuous
+- 通道
+- 范围
+- 采样率
+- 采样点数
+
+AO 1 Samples
+
+AO N Samples
+
+AO Continuous
